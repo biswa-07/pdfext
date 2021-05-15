@@ -6,5 +6,8 @@ sbi bill daat extraction
 
 ICICI bill extraction
 
+Text data from images
+pytes model
+
 
 thank you:)
